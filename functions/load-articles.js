@@ -1,4 +1,4 @@
-const fetch = require('node-fetch');
+const fetch = require("node-fetch");
 
 exports.handler = async () => {
   const response = await fetch('http://localhost:1337/Articles')
