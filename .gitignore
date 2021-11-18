@@ -5,3 +5,4 @@ types
 *.local
 node_modules
 .netlify
+.netlify
