@@ -1,6 +1,6 @@
-import fetch from 'node-fetch';
+const fetch = require('node-fetch');
 
-export async function handler() {
+exports.handler = async () => {
   const response = await fetch('http://localhost:1337/Articles')
     .then((res) => res.json())
     .catch((err) => console.error(err));
@@ -9,4 +9,4 @@ export async function handler() {
     statusCode: 200,
     body: JSON.stringify(response),
   };
-}
+};
