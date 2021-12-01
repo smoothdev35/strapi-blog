@@ -1,4 +1,11 @@
 [build]
-command = "cd functions && npm i && cd .. && npm run build"
-functions = "functions"
+command = "npm run build"
 publish = "dist"
+functions = "functions"
+
+[functions]
+  node_bundler = "esbuild"
+
+
+[dev]
+  command = "npm run dev"
