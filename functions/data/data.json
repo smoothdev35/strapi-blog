@@ -1,86 +1,85 @@
 [
-    {
-      "sku": "best001",
-      "name": "colección de gel colores",
-      "price": "199",
-      "prices":["199"],
-      "sizes": "12x10ml",
-      "category": "colores",
-      "maxCount":"3"
-    },
-    {
-      "sku": "best002",
-      "name": "esencia de almendra",
-      "price": "99",
-      "prices":["99"],
-      "sizes": "120ml",
-      "category": "esencias",
-      "maxCount":"3"
-    },
-    {
-      "sku": "best003",
-      "name": "paw patrol mix",
-      "price": "39",
-      "prices": ["39", "149", "229"],
-      "sizes": ["100gr", "500gr", "1kg"],
-      "category": "decoracion",
-      "maxCount":"3"
-    },
-    {
-      "sku": "best004",
-      "name": "perla diamantada 6 - oro",
-      "price": "39",
-      "prices": ["39", "149", "229"],
-      "sizes": ["100gr", "500gr", "1kg"],
-      "category": "decoracion",
-      "maxCount":"3"
-    },
-    {
-      "sku": "best005",
-      "name": "perla nacarada 6 - perla",
-      "price": "3900",
-      "prices": ["39", "149", "229"],
-      "sizes": ["100gr", "500gr", "1kg"],
-      "category": "decoracion",
-      "maxCount":"3"
-    },
-    {
-      "sku": "best007",
-      "name": "highlighter oro",
-      "price": "19",
-      "prices":["19"],
-      "sizes": "5gr",
-      "category": "colores",
-      "maxCount":"3"
-    },
-    {
-      "sku": "best006",
-      "name": "esencia de vainilla clara",
-      "price": "99",
-      "prices": ["99", "349"],
-      "sizes": ["120ml", "1L"],
-      "category": "esencias",
-      "maxCount":"3"
-    },
-    {
-      "sku": "best008",
-      "name": "sleeping beauty mix",
-      "price": "3900",
-      "prices": ["39", "149", "229"],
-      "defSize": "100gr",
-      "sizes": ["100gr", "500gr", "1kg"],
-      "category": "decoracion",
-      "maxCount":"3"
-    },
-    {
-      "sku": "best009",
-      "name": "unicornio mix",
-      "price": "39",
-      "prices": ["39", "149", "229"],
-      "defSize": "100gr",
-      "sizes": ["100gr", "500gr", "1kg"],
-      "category": "decoracion",
-      "maxCount":"3"
-    }
-  ]
-  
+  {
+    "sku": "best001",
+    "name": "colección de gel colores",
+    "price": "199",
+    "prices": ["199"],
+    "sizes": "12x10ml",
+    "category": "colores",
+    "maxCount": "3"
+  },
+  {
+    "sku": "best002",
+    "name": "esencia de almendra",
+    "price": "99",
+    "prices": ["99"],
+    "sizes": "120ml",
+    "category": "esencias",
+    "maxCount": "3"
+  },
+  {
+    "sku": "best003",
+    "name": "paw patrol mix",
+    "price": "39",
+    "prices": ["39", "149", "229"],
+    "sizes": ["100gr", "500gr", "1kg"],
+    "category": "decoracion",
+    "maxCount": "3"
+  },
+  {
+    "sku": "best004",
+    "name": "perla diamantada 6 - oro",
+    "price": "39",
+    "prices": ["39", "149", "229"],
+    "sizes": ["100gr", "500gr", "1kg"],
+    "category": "decoracion",
+    "maxCount": "3"
+  },
+  {
+    "sku": "best005",
+    "name": "perla nacarada 6 - perla",
+    "price": "3900",
+    "prices": ["39", "149", "229"],
+    "sizes": ["100gr", "500gr", "1kg"],
+    "category": "decoracion",
+    "maxCount": "3"
+  },
+  {
+    "sku": "best007",
+    "name": "highlighter oro",
+    "price": "19",
+    "prices": ["19"],
+    "sizes": "5gr",
+    "category": "colores",
+    "maxCount": "3"
+  },
+  {
+    "sku": "best006",
+    "name": "esencia de vainilla clara",
+    "price": "99",
+    "prices": ["99", "349"],
+    "sizes": ["120ml", "1L"],
+    "category": "esencias",
+    "maxCount": "3"
+  },
+  {
+    "sku": "best008",
+    "name": "sleeping beauty mix",
+    "price": "3900",
+    "prices": ["39", "149", "229"],
+    "defSize": "100gr",
+    "sizes": ["100gr", "500gr", "1kg"],
+    "category": "decoracion",
+    "maxCount": "3"
+  },
+  {
+    "sku": "best009",
+    "name": "unicornio mix",
+    "price": "39",
+    "prices": ["39", "149", "229"],
+    "defSize": "100gr",
+    "sizes": ["100gr", "500gr", "1kg"],
+    "category": "decoracion",
+    "maxCount": "3"
+  }
+]
